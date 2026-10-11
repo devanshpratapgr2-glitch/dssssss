@@ -57,6 +57,4 @@ exit(0);
 default:
 printf("Invalid choice!\n"); }
  }
-return 0;
-
-}
+return 0;}
